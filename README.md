@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working as a Full-stack Web Developer at Self Employed.
-- 🌱 I’m currently learning Spring Boot and Vue js.
+- 🌱 I’m currently learning Laravel and Vue js.
 - 👯 I’m looking to collaborate on JavaScript, React, and Ruby on Rails Projects.
 - 🤔 I’m looking for Job as JavaScript, React, Or Ruby On Rails Developer.
 - 💬 Ask me about Web Development.
